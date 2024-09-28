@@ -7,5 +7,10 @@ LIME  is an interpretable ML technique that explains the predictions of any blac
 t-SNE (t-distributed Stochastic Neighbor Embedding) is a dimensionality reduction technique for visualizing high-dimensional data. It models similar data points nearby in lower dimensions (typically 2D or 3D) by minimizing divergence between pairwise probabilities. It's widely used for data exploration, especially in clustering.
 In conclusion, the concatenation of ViT and CNN features and the interpretability provided by XAI result in a robust and optimized plant illness identification system. The integration of global and local feature analysis improves accuracy. At the same time, the model's explainabilitymodel's explainability ensures that its predictions are precise and reliable, aiding in better decision-making for plant health monitoring.
 
-
+The proposed model used two datasets: groundnut and rice datasets. The dataset links are available below. 
+https://data.mendeley.com/datasets/22p2vcbxfk/3
+ and at https://doi.org/10.17632/22p2vcbxfk.3
+ https://www.kaggle.com/datasets/guy007/nutrientdeficiencysymptomsinrice
+ 
+The proposed method is compared with state-of-the-art models, and the implemented codes are available. We used four existing models for comparison: DECM, CNN, MobileNetV2, and ResNet50V2.
 
